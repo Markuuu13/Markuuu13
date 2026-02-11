@@ -1,9 +1,9 @@
-# Hi, I'm Markuuu13 👋
+# Hello World, I'm Markuuu13 👋
 -- Willing to Learn and Explore! --
 
 💻 Student | Backend Developer | Mobile App Developer
 
-## 🚀 My Tech Stack
+## </> My Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
