@@ -4,22 +4,6 @@
 
 ## 🚀 Tech Stack
 
-### 📱 Mobile Development
-- Flutter
-- Dart
-
-### 🖥 Backend Development
-- Node.js
-- Express.js
-- Django REST Framework
-
-### 🗄 Database
-- PostgreSQL
-- Supabase
-
-### 🔐 Authentication
-- JWT (Access & Refresh Tokens)
-
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
